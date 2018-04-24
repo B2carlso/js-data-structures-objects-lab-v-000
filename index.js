@@ -1,3 +1,6 @@
-const driver = {}
-
-const updateDriverWithKeyAndValue(driver, name, address);
+const driver = {
+  updateDriverWithKeyAndValue: {
+    name: 'Sam',
+    address: '11 Broadway'
+  };
+};
