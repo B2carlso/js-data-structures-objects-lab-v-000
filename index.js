@@ -1,5 +1,5 @@
 const driver = {
   name: 'Sam',
-  address: '11 Broadway';
+  address: '11 Broadway'
 
 };
