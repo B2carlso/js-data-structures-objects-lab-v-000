@@ -8,3 +8,8 @@ function destructivelyUpdateDriverWithKeyAndValue(driver, key, value) {
   driver[key] = value;
   return driver;
 }
+
+function deleteFromDriverByKey(driver, key) {
+  const newDriver = delete driver.key
+  return newDriver;
+}
