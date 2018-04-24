@@ -1,3 +1,1 @@
-function driver {
-  
-}
+const driver{}
